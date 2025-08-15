@@ -1,0 +1,28 @@
+{
+  "main": [
+    {
+      "enable": true,
+      "label": "whatsapp",
+      "icon": "FaWhatsapp",
+      "url": "https://wa.me/34647748705?text=Hola%20quiero%20más%20información"
+    },
+    {
+      "enable": true,
+      "label": "mail",
+      "icon": "FaMailBulk",
+      "url": "mailto:pteijeirolopez@gmail.com"
+    },
+    {
+      "enable": true,
+      "label": "github",
+      "icon": "FaGithub",
+      "url": "https://github.com/PabloTei"
+    },
+    {
+      "enable": true,
+      "label": "linkedin",
+      "icon": "FaLinkedin",
+      "url": "https://www.linkedin.com/in/pablo-teijeiro-55a483191/"
+    }
+  ]
+}

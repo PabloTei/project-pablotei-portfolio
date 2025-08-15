@@ -1,0 +1,20 @@
+{
+  "common": {
+    "viewDetails": "View Details",
+    "learnMoreAbout": "Learn more about",
+    "paginationPrevious": "Previous",
+    "paginationNext": "Next",
+    "paginationPortfolioPrev": "Previous Portfolio",
+    "paginationPortfolioNext": "Next Portfolio"
+  },
+  "headerOffcanvas": {
+    "description": "We are a digital agency that helps businesses create immersive experiences.",
+    "buttonLabel": "Let’s Talk With Us"
+  },
+  "navigation": {
+    "buttonLabel": "Get Started"
+  },
+  "footer": {
+    "copyright": "Copyright © {{ year }} by Pablo Teijeiro"
+  }
+}
